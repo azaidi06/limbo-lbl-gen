@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "limbo-lbl-gen"
+  site-url: "https://azaidi06.github.io/limbo-lbl-gen"
+  description: "label generation for the limbo dataset"
+  repo-branch: main
+  repo-url: "https://github.com/azaidi06/limbo-lbl-gen"
